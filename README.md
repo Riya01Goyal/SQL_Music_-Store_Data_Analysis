@@ -1,19 +1,19 @@
 # SQL_Music_-Store_Data_Analysis
 
-Objective:
-Explored the data of a digital music store using SQL to derive insights into business growth, customer behavior, and music genre preferences.
+I. Objective:
+1. Explored the data of a digital music store using SQL to derive insights into business growth, customer behavior, and music genre preferences.
 
-Key Questions Addressed:
+II. Key Questions Addressed:
 
-Identify the senior most employee in the store.
-Determine top countries by invoice count.
-Identify top customers based on their purchasing behavior.
-Analyze popular music genres and their impact on sales.
+1. Identify the senior most employee in the store.
+2. Determine top countries by invoice count.
+3. Identify top customers based on their purchasing behavior.
+4. Analyze popular music genres and their impact on sales.
 
-Methodology:
+III. Methodology:
 
-Utilized SQL for data querying and analysis.
-Formulated SQL queries to extract relevant information from the database.
-Employed data visualization techniques to present key findings.
+1. Utilized SQL for data querying and analysis.
+2. Formulated SQL queries to extract relevant information from the database.
+3. Employed data visualization techniques to present key findings.
 
 
